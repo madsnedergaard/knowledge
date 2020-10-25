@@ -2,3 +2,7 @@
 
 * [Initial page](README.md)
 
+## Reading
+
+* [Books](reading/books.md)
+
