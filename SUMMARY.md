@@ -4,5 +4,6 @@
 
 ## Reading
 
-* [Books](reading/books.md)
+* [Books](reading/books/README.md)
+  * [📚 This Changes Everything](reading/books/this-changes-everything.md)
 
