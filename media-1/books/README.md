@@ -1,8 +1,12 @@
+---
+description: Everything about books!
+---
+
 # Books
 
 I track all the books I read and want to read at [Goodreads](https://www.goodreads.com/user/show/16531967-mads-nedergaard).
 
-#### Goals
+## Goals
 
 * Share which books I read and care about
 * Help me be better at reflecting on what I'm reading during the reading process
