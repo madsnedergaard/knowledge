@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Meta](meta-1/README.md)
-  * [About me](meta-1/about-me.md)
-  * [About this website](meta-1/about.md)
-  * [About digital gardening](meta-1/about-digital-gardening.md)
+* [Meta](meta/README.md)
+  * [About me](meta/about-me.md)
+  * [About this website](meta/about.md)
+  * [About digital gardening](meta/about-digital-gardening.md)
 * [Media](media-1/README.md)
   * [Books](media-1/books/README.md)
     * [📚 This Changes Everything](media-1/books/this-changes-everything.md)

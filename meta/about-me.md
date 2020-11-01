@@ -1,16 +1,24 @@
 # About me
 
+### Who am I
 
+...
 
+#### What I care about
 
+...
 
-Github
+### Me on the internet
 
-Twitter
+{% hint style="info" %}
+**Website**  [https://www.madsnedergaard.dk](https://www.madsnedergaard.dk)
 
-LinkedIn
+**LinkedIn**  [http://linkedin.com/in/madsnedergaard/](http://linkedin.com/in/madsnedergaard/)
 
+**Twitter**  [https://twitter.com/Mads\_Nedergaard](https://twitter.com/Mads_Nedergaard)\*\*\*\*
 
+**Github**  [https://github.com/madsnedergaard/](https://github.com/madsnedergaard/)
+{% endhint %}
 
 
 
