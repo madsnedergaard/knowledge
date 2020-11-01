@@ -4,8 +4,6 @@ description: Capitalism vs. The Climate — by Naomi Klein
 
 # This Changes Everything
 
-
-
 {% hint style="info" %}
 \#climatechange \#non-fiction                                                        [Website](https://thischangeseverything.org) \| [Goodreads](https://www.goodreads.com/book/show/21913812-this-changes-everything)
 {% endhint %}
