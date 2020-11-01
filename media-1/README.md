@@ -1,12 +1,12 @@
 # Media
 
-### Tracking things
+### Tracking all the things
 
 I love tracking all the things I do and consume \(unless it requires too much manual work\). 
 
 Therefore I'm using a bunch of services to track things and to keep a list of things I want to read/watch/listen to in the future.
 
-#### My lists of things I have consumed and things I want to consume in future:
+#### Places where I track what I have _done_ and what I want to _do_ in future:
 
 {% embed url="http://goodreads.com/madsnedergaard" caption="Books - Goodreads" %}
 
