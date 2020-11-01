@@ -2,7 +2,7 @@
 description: Capitalism vs. The Climate — by Naomi Klein
 ---
 
-# 📚 This Changes Everything
+# This Changes Everything 📗
 
 ![](../../.gitbook/assets/61oq5c53l4l-2x%20%281%29.jpg)
 

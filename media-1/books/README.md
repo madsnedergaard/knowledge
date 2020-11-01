@@ -1,4 +1,4 @@
-# Books
+# 📚 Books
 
 I track all the books I read and want to read at [Goodreads](https://www.goodreads.com/user/show/16531967-mads-nedergaard).
 
@@ -20,44 +20,6 @@ I track all the books I read and want to read at [Goodreads](https://www.goodrea
 [Siddhartha by Herman Jesse](https://www.goodreads.com/book/show/444555.Siddhartha)
 
 
-
-#### Third level
-
-...
-
-
-
-
-
-
-
-## Header1
-
-
-
-O
-
-
-
-
-
-
-
-
-
-
-
-Long page..
-
-
-
-
-
-...
-
-
-
-...
 
 
 
