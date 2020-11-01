@@ -17,6 +17,7 @@
 * Good, slow games
 * Story-driven games
 * Less competitive games
+* No mobile games! \(why?\)
 
 ### Favourites
 
