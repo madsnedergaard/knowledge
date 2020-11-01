@@ -6,12 +6,12 @@
   * [About this website](meta-1/about.md)
   * [About digital gardening](meta-1/about-digital-gardening.md)
 * [Media](media-1/README.md)
-  * [📚 Books](media-1/books/README.md)
-    * [This Changes Everything](media-1/books/this-changes-everything.md)
-  * [🎬 Movies](media-1/movies.md)
-  * [📺 TV shows](media-1/tv-shows.md)
-  * [🎶 Music](media-1/music.md)
-  * [👾 Games](media-1/games.md)
+  * [Books](media-1/books/README.md)
+    * [📚 This Changes Everything](media-1/books/this-changes-everything.md)
+  * [Movies](media-1/movies.md)
+  * [TV shows](media-1/tv-shows.md)
+  * [Music](media-1/music.md)
+  * [Games](media-1/games.md)
 
 ## Programming
 

@@ -1,4 +1,4 @@
-# 📺 TV shows
+# TV shows
 
 ...
 
