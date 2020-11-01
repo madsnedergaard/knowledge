@@ -32,7 +32,3 @@
 
 ## External Links
 
-* [🐦 Twitter](https://twitter.com/Mads_Nedergaard)
-* [🐙 Github](https://github.com/madsnedergaard/)
-* [💼 LinkedIn](http://linkedin.com/in/madsnedergaard/)
-
