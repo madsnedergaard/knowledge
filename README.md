@@ -7,6 +7,14 @@ Welcome
 
 
 
+### Topics todo
+
+* [ ] Personal life - motivations, rules, ideas, goals, etc.
+* [ ] Finance
+* [ ] Programming
+* [ ] 
+
+
 ### Commonly used _**terms**_
 
 #### Goals
