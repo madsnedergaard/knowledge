@@ -4,23 +4,25 @@ description: Everything about books!
 
 # Books
 
-I track all the books I read and want to read at [Goodreads](https://www.goodreads.com/user/show/16531967-mads-nedergaard).
+_I track all the books I read and want to read at_ [_Goodreads_](https://www.goodreads.com/user/show/16531967-mads-nedergaard)_._
 
 ### Currently reading
 
 {% page-ref page="this-changes-everything.md" %}
 
+### Why read books
 
+...
 
-### Goals
+### Why I'm taking notes while reading
 
-* Share which books I read and care about
 * Help me be better at reflecting on what I'm reading during the reading process
 * Keep my thoughts, ideas and citations together after I'm done with a book
-* Hopefully point other people in direction
+* Share it openly to force myself to actually do it!
+
+One rule:
+
 * When I start a new book, I have to create an entry for it!
-
-
 
 ### All time favourites
 
