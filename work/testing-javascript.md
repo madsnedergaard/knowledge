@@ -18,7 +18,11 @@ _The following best practices are very inspired by_ [_Yoni Goldberg's ideas_](ht
 It's better to have 90% coverage in simple, easy-to-read tests than to have 100% coverage with tests that takes a lot of mental effort to understand.
 
 
+---
 
+#### 2. AAA pattern
+
+- Acquire, Act, Assert
 
 
 ### Snippets
