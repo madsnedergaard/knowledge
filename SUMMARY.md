@@ -22,6 +22,7 @@
 ## Work
 
 * [Programming](work/todo.md)
+* [Testing JavaScript](work/testing-javascript.md)
 * [Software I can't live without](work/software-i-cant-live-without.md)
 * [Keyboard automation](work/keyboard-automation/README.md)
   * [Touchbar](work/keyboard-automation/touchbar.md)

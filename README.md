@@ -4,6 +4,7 @@ Welcome
 
 * How to use it
 * ToC?
+* Warning: This is my opinions and they can be very opinionated. I'm not claiming to be an expert on anything. If you disagree with something I'd love to hear your thoughts though!
 
 
 
