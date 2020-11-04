@@ -21,12 +21,13 @@
 
 ## Work
 
-* [Programming](work/todo.md)
-* [Testing JavaScript](work/testing-javascript.md)
+* [Programming](work/todo/README.md)
+  * [Testing JavaScript](work/todo/testing-javascript.md)
 * [Software I can't live without](work/software-i-cant-live-without.md)
 * [Keyboard automation](work/keyboard-automation/README.md)
   * [Touchbar](work/keyboard-automation/touchbar.md)
   * [Hyper keys](work/keyboard-automation/hyper-keys.md)
   * [Alfred](work/keyboard-automation/alfred.md)
 * [MacOS dev setup](work/macos-dev-setup.md)
+* [Seniority](work/seniority.md)
 
