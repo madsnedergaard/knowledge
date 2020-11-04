@@ -18,24 +18,9 @@ _The following best practices are very inspired by_ [_Yoni Goldberg's ideas_](ht
 It's better to have 90% coverage in simple, easy-to-read tests than to have 100% coverage with tests that takes a lot of mental effort to understand.
 
 
-Here I want a divider:
-
-----
-
-This is just below divider.
-
-Also testing HTML:
-
-<abbr title="Cascading Style Sheets">CSS</abbr>
-
-This is just below HTML.
-
-
 #### 2. AAA pattern
 
 - Acquire, Act, Assert
-
-
 
 
 ### Snippets
