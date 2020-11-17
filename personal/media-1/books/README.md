@@ -10,7 +10,7 @@ _I track all the books I read and want to read at_ [_Goodreads_](https://www.goo
 
 {% page-ref page="this-changes-everything.md" %}
 
-### Why read books
+## Why read books
 
 ...
 
@@ -24,7 +24,7 @@ One rule:
 
 * When I start a new book, I have to create an entry for it!
 
-### All time favourites
+## All time favourites
 
 [Siddhartha by Herman Jesse](https://www.goodreads.com/book/show/444555.Siddhartha)
 
@@ -32,5 +32,7 @@ One rule:
 
 
 
+## Links
 
+{% embed url="http://goodreads.com/madsnedergaard" caption="My profile on Goodreads" %}
 

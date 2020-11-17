@@ -2,13 +2,15 @@
 
 * [Introduction](README.md)
 * [Meta](meta/README.md)
+  * [Template](meta/template.md)
   * [About me](meta/about-me.md)
   * [About this website](meta/about.md)
   * [About digital gardening](meta/about-digital-gardening.md)
 
 ## Personal
 
-* [Life](personal/life.md)
+* [Life](personal/life/README.md)
+  * [Digital Minimalism](personal/life/digital-minimalism.md)
 * [Media](personal/media-1/README.md)
   * [Books](personal/media-1/books/README.md)
     * [📚 This Changes Everything](personal/media-1/books/this-changes-everything.md)
@@ -26,8 +28,17 @@
 * [Software I can't live without](work/software-i-cant-live-without.md)
 * [Keyboard automation](work/keyboard-automation/README.md)
   * [Touchbar](work/keyboard-automation/touchbar.md)
-  * [Hyper keys](work/keyboard-automation/hyper-keys.md)
   * [Alfred](work/keyboard-automation/alfred.md)
 * [MacOS dev setup](work/macos-dev-setup.md)
-* [Seniority](work/seniority.md)
+* [Thoughts on...](work/thoughts-on.../README.md)
+  * [Startups](work/thoughts-on.../startups.md)
+  * [Seniority](work/thoughts-on.../seniority.md)
+  * [Onboarding](work/thoughts-on.../onboarding.md)
+  * [Hiring](work/thoughts-on.../hiring.md)
+  * [Culture](work/thoughts-on.../culture.md)
+  * [Mentoring](work/thoughts-on.../mentoring.md)
+  * [Retrospectives & team reflection](work/thoughts-on.../retrospectives-and-team-reflection.md)
+  * [Prototyping](work/thoughts-on.../prototyping.md)
+  * [Workspace / office](work/thoughts-on.../workspace-office.md)
+  * [User Testing](work/thoughts-on.../user-testing.md)
 

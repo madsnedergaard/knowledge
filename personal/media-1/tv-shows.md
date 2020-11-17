@@ -1,15 +1,5 @@
 # TV shows
 
-### Currently watching & following
-
-* [Alone](https://www.imdb.com/title/tt4803766/) \(both the Danish and American versions\)
-* ...
-* [The Handmaid's Tale](https://www.imdb.com/title/tt5834204/)
-
-
-
-## 
-
 ### Goals
 
 #### Watch less mind-numbing TV shows
@@ -31,5 +21,7 @@
 
 ### Favourites
 
-
+* Twin Peaks
+* [Alone](https://www.imdb.com/title/tt4803766/) \(both the Danish and American versions\)
+* ...
 

@@ -1,7 +1,5 @@
 # Music
 
-### Tracking
-
 _I track all the music I have listened to on Spotify at_ [_Last.FM_](https://www.last.fm/user/MadsNedergaard)_._ 
 
 ## Music for work
@@ -45,5 +43,7 @@ LPs I wish to buy in future:
 
 * ...
 
+## Links
 
+{% embed url="https://www.last.fm/user/MadsNedergaard" caption="Music - Last.fm" %}
 

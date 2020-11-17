@@ -6,7 +6,11 @@ Getting rid of the mouse and doing more things with KB
 
 
 
+**My setup**
 
+* Karabiner Elements
+* Alfred
+* BTT
 
 
 

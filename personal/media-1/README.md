@@ -1,20 +1,10 @@
 # Media
 
-### Tracking all the things
+### Purposefully consuming media
 
-I love tracking all the things I do and consume \(unless it requires too much manual work\). 
+...
 
-Therefore I'm using a bunch of services to track things and to keep a list of things I want to read/watch/listen to in the future.
-
-#### Places where I track what I have _done_ and what I want to _do_ in future:
-
-{% embed url="http://goodreads.com/madsnedergaard" caption="Books - Goodreads" %}
-
-{% embed url="https://letterboxd.com/madsnedergaard/" caption="Movies - Letterboxd" %}
-
-{% embed url="https://www.last.fm/user/MadsNedergaard" caption="Music - Last.fm" %}
-
-## Goals
+### Goals
 
 _I general I want to be more conscious about the time I spend on media and entertainment. Therefore I have created the following goals for the future:_
 
@@ -25,11 +15,17 @@ _I general I want to be more conscious about the time I spend on media and enter
   * Book notes and summaries
   * Movie reviews
 
+## Subpages
 
+{% page-ref page="books/" %}
 
-### 
+{% page-ref page="movies.md" %}
 
+{% page-ref page="tv-shows.md" %}
 
+{% page-ref page="music.md" %}
+
+{% page-ref page="games.md" %}
 
 
 
