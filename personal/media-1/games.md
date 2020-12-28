@@ -6,6 +6,7 @@ I like to occasionally play video games - although exclusively games I can play 
 
 * Last Of Us Part II
 * Röki
+* Cyberpunk 2077
 
 ## The best games I've ever played
 

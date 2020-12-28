@@ -1,9 +1,5 @@
 # Media
 
-### Purposefully consuming media
-
-...
-
 ### Goals
 
 _I general I want to be more conscious about the time I spend on media and entertainment. Therefore I have created the following goals for the future:_

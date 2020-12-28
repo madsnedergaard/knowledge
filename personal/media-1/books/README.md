@@ -8,7 +8,7 @@ _I track all the books I read and want to read at_ [_Goodreads_](https://www.goo
 
 ### Currently reading
 
-{% page-ref page="this-changes-everything.md" %}
+{% embed url="https://www.goodreads.com/review/list/16531967?shelf=currently-reading" caption="What I\'m currently reading" %}
 
 ## Why read books
 

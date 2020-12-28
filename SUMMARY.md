@@ -2,10 +2,10 @@
 
 * [Introduction](README.md)
 * [Meta](meta/README.md)
-  * [Template](meta/template.md)
   * [About me](meta/about-me.md)
   * [About this website](meta/about.md)
   * [About digital gardening](meta/about-digital-gardening.md)
+  * [\(Page Template\)](meta/template.md)
 
 ## Personal
 
@@ -19,7 +19,8 @@
   * [Music](personal/media-1/music.md)
   * [Games](personal/media-1/games.md)
 * [Climate change](personal/todo.md)
-* [Finance](personal/finance.md)
+* [Finance](personal/finance/README.md)
+  * [Sustainable investment](personal/finance/sustainable-investment.md)
 
 ## Work
 
