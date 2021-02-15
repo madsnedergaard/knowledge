@@ -98,23 +98,35 @@ More to come!
 ### Mock express routes
 
 ```javascript
-// Util for mocking req
-const mockRequest = (options) => ({
-  ...options,
+// Util for mocking req (that always has a query and headers
+// but everything can be overwritten
+const mockRequest = (options) => ({ 
+  query: {}, 
+  headers: {}, 
+  ...options 
 });
 
 // Util for mocking res
-const mockResponse = () => {
-  const res = {};
+const mockResponse = (options) => {
+  const res = {...options};
+  res.status = jest.fn().mockReturnValue(res);
   res.json = jest.fn().mockReturnValue(res);
   res.send = jest.fn().mockReturnValue(res);
-  res.status = jest.fn().mockReturnValue(res);
   return res;
 };
 
+// Util for mocking next
+const mockNext = () => jest.fn();
+
+// Combining all three into one to make usage easier
+const mockExpress = (options) => ({
+  req: mockRequest(options.req),
+  res: mockResponse(options.res),
+  next: mockNext(),
+});
+
 it('tests myEndpoint', async () => {
-  const req = mockRequest({ body: { name: 'test' } });
-  const res = mockResponse();
+  const { req, res } = mockExpress({ req: { body: { name: 'test' } } });
 
   await myEndpoint(req, res);
 
