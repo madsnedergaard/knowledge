@@ -36,3 +36,5 @@ The default touchbar is fairly useless to me, I so very rarely use any of the bu
 
 ![](../../.gitbook/assets/screenshot-2021-02-18-at-10.55.14.png)
 
+
+

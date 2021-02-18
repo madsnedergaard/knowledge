@@ -1,2 +1,2 @@
-# MacOS Customizations
+# MacOS
 

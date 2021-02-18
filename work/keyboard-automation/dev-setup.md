@@ -1,4 +1,4 @@
-# Dev Setup
+# Initial Dev Setup
 
 All my settings, configurations, etc. is documented in this repository. This makes it faster to set up a new computer \(and ensures I didn't forget something\).
 

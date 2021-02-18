@@ -1,4 +1,4 @@
-# Software I can't live without
+# Software I Can't Live Without
 
 * \(alfred, Bear, Remotion, BTT, VSCode and link to editor-note...\)
 
