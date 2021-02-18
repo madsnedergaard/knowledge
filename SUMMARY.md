@@ -25,6 +25,7 @@
 ## Work
 
 * [Programming](work/todo/README.md)
+  * [React](work/todo/react.md)
   * [Code Reviews](work/todo/pull-requests-and-code-reviews.md)
   * [Testing JavaScript](work/todo/testing-javascript.md)
 * [Software I can't live without](work/software-i-cant-live-without.md)
