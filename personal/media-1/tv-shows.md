@@ -23,5 +23,7 @@
 
 * Twin Peaks
 * [Alone](https://www.imdb.com/title/tt4803766/) \(both the Danish and American versions\)
-* ...
-
+* Devs
+* American Gods
+* Riget \(Danish\)
+* 
