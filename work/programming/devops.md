@@ -31,6 +31,14 @@ docker run -it IMAGE sh
 docker exec -it IMAGE sh
 ```
 
+
+### Handy aliases
+
+```sh
+alias docker-images-by-size="docker images --format '{{.ID}}\t{{.Size}}\t{{.Repository}}' | sort -k 2 -h"
+alias docker-images-latest="docker images | head -n 10"
+```
+
 ## Google Cloud Platform
 
 - Cloud Run vs Cloud Functions
