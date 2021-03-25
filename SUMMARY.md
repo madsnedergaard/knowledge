@@ -29,6 +29,7 @@
   * [Python](work/programming/python.md)
   * [Code Reviews](work/programming/code-reviews.md)
   * [Testing JavaScript](work/programming/testing-javascript.md)
+  * [DevOps](work/programming/devops.md)
 * [MacOS](work/macos/README.md)
   * [Initial Dev Setup](work/macos/dev-setup.md)
   * [Terminal Enhancements](work/macos/terminal-enhancements.md)
