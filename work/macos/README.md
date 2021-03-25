@@ -1,4 +1,5 @@
-# MacOS
+# MacOS things
 
-hi
-
+- Dev setup
+- Tools and apps
+- Tips and tricks

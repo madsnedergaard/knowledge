@@ -11,7 +11,6 @@ Welcome...
 * [ ] Personal life - motivations, rules, ideas, goals, etc.
 * [ ] Finance
 * [ ] Programming
-* \[ \]
 
 ## Commonly used _**terms**_
 
