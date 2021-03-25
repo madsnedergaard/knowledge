@@ -26,6 +26,7 @@
 
 * [Programming](work/programming/README.md)
   * [React](work/programming/react.md)
+  * [Python](work/programming/python.md)
   * [Code Reviews](work/programming/code-reviews.md)
   * [Testing JavaScript](work/programming/testing-javascript.md)
 * [MacOS](work/macos/README.md)
