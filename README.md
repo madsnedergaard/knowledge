@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome
+Welcome...
 
 * How to use it
 * ToC?
@@ -13,7 +13,7 @@ Welcome
 * [ ] Personal life - motivations, rules, ideas, goals, etc.
 * [ ] Finance
 * [ ] Programming
-* [ ] 
+* [ ]
 
 
 ### Commonly used _**terms**_
@@ -22,5 +22,5 @@ Welcome
 
 A lot of notes contains a _goals_ section. I use it for highlighting \(mostly for myself\) what and how I want to change my own behaviour around that specific topic.
 
-_Example:_ 
+_Example:_
 
