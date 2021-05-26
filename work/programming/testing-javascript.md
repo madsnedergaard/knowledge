@@ -87,13 +87,36 @@ describe("My Fancy Service", () => {
 
 ![https://martinfowler.com/bliki/TestPyramid.html](../../.gitbook/assets/test-pyramid.png)
 
-### ...
-
-More to come!
-
-
 
 ## How to ...
+
+### Test multiple cases
+
+Either loop over things, or use [jest-in-case](https://github.com/atlassian/jest-in-case). 
+Can be combined with snapshots like this:
+
+```javascript
+import cases from 'jest-in-case';
+import { sayHi } from './sayHi';
+
+cases(
+  'title (e.g. function name)',
+  ({ output, snapshot = false }) => {
+    if (snapshot) {
+      expect(sayHi(output)).toMatchSnapshot();
+    } else {
+      expect(sayHi(output)).toBe(`Hi ${output}!`);
+    }
+  },
+  {
+    'test string': { output: 'John', snapshot: true },
+    'test int': { output: 0 },
+    'test null': { output: null },
+  }
+);
+```
+
+
 
 ### Mock express routes
 
